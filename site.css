@@ -1,0 +1,90 @@
+		#mainContainer {
+			width: 1000px;
+		}
+		
+		#header {
+			background: black;
+			color: white;
+			text-align: center;
+			padding: 5px 0px 5px 0px;
+		}
+		
+		#navigation {
+			background: salmon;
+			text-align: center;
+			padding: 2px;
+		}
+		
+		#content {
+			background:black;
+			border-top: 1px solid white;
+			border-bottom: 1px solid white;
+		}
+		
+		a {
+			color: white;
+			text-decoration: none;
+			padding: 0px 10px 0px 10px;
+		}
+		
+		h2 {
+			color: black;
+			padding-left: 5px;
+			text-align: center;
+		}
+		
+		p {
+			color: white;
+			padding-left: 5px;
+			font: Helvetica;
+		}
+		
+		img {
+			width: 960px;
+			height: 600px;
+			margin: auto;
+			display: block;
+		}
+		
+		footer {
+			color: white;
+			background: black;
+		}
+		
+		ul {
+			list-style: none;
+		}
+		
+		biography #content {
+			width: 500px;
+			margin: auto;
+			display: block;
+		}
+		
+		a {
+			color: white;
+			text-decoration: none;
+			padding: 0px 10px 0px 10px;
+		}
+		
+		biography img {
+			margin: auto;
+			display: block;
+		}
+		
+		p {
+			font: Helvetica;
+			text-align: center;
+		}
+		
+		table {
+			border: 1px solid white;
+			background: black;
+			font: Helvetica;
+			color: white;
+		}
+		
+		#table, th, td {
+			border: 1px solid white;
+			border-collapse: collapse;
+		}
