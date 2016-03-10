@@ -1,5 +1,7 @@
 		#mainContainer {
 			width: 1000px;
+			display: block;
+			margin: auto;
 		}
 		
 		#header {
@@ -49,6 +51,7 @@
 			color: white;
 			background: black;
 			text-align: center;
+			padding: 5px;
 		}
 		
 		ul {
